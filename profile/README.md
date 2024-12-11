@@ -40,6 +40,15 @@ Teks
 ### Mobile Development
 [MD - Repository](https://github.com/Bangkit-Capstone-Product-C242-PS118/Mobile-Dev)
 
+
+## Techstack
+
+### Machine Learning 
+
+### Cloud Computing
+
+### Mobile Development
+
 </details>
 
 <p align="right"> Bangkit C242-PS118 Team </p>
