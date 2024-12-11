@@ -12,8 +12,8 @@ Teks
 
 ### Cloud Computing Team
 | Bangkit ID | Name | University | Social Media |
-|:----------:|:----:|--------------|
-| M014B4KY4214|Steven Gerald Parsaoran Berutu|Universitas Udayana|[LinkedIn](https://www.linkedin.com/in/steven-gerald-parsaoran-berutu-800486219/) |
+|:----------:|:----:|:----------:|--------------|
+|M014B4KY4214|Steven Gerald Parsaoran Berutu|Universitas Udayana|[LinkedIn](https://www.linkedin.com/in/steven-gerald-parsaoran-berutu-800486219/) |
 
 ### Mobile Development Team
 
