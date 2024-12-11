@@ -1,7 +1,9 @@
 <h1 align="center"> C242-PS118-PantauHarga </h1>
 
-## Our Team
-Teks
+Hello World!
+
+<details>
+## Meet Our Team
 
 ### Machine Learning Team
 | Bangkit ID | Name | University | Social Media |
