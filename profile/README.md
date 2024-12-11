@@ -28,6 +28,19 @@ Teks
 |A704B4KY0820|Bayu Firmansyah|Universitas Siber Asia|[LinkedIn](https://www.linkedin.com/in/bayufirmansyah/) |
 |A272B4KX0155|Afifah Khairunnisa Nugroho|Universitas Muslim Indonesia|[LinkedIn](https://www.linkedin.com/in/afifah-khairunnisa-nugroho/) |
 
+
+## Repository
+Teks
+
+### Machine Learning 
+Teks
+
+### Cloud Computing
+Teks
+
+### Mobile Development
+Teks
+
 </details>
 
 <p align="right"> Bangkit C242-PS118 Team </p>
