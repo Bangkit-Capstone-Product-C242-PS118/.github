@@ -1,6 +1,6 @@
 <h1 align="center"> PantauHarga </h1>
 
-Deskripsi Aplikasi PantauHarga
+Description PantauHarga
 
 <details>
    <summary align="center">Meet Our Team</summary>
