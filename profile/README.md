@@ -1,4 +1,4 @@
-<h1 align="center"> C242-PS118-PantauHarga </h1>
+<h1 align="center"> PantauHarga </h1>
 
 Deskripsi Aplikasi PantauHarga
 
