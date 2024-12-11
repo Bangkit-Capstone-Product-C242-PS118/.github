@@ -34,15 +34,6 @@ Teks
 ### Mobile Development
 [MD - Repository](https://github.com/Bangkit-Capstone-Product-C242-PS118/Mobile-Dev)
 
-
-## Techstack
-
-### Machine Learning 
-
-### Cloud Computing
-
-### Mobile Development
-
 ## Tech Stack Product
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -52,7 +43,6 @@ Teks
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 
 </details>
 
