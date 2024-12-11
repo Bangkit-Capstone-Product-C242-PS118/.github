@@ -1,6 +1,6 @@
 <h1 align="center"> C242-PS118-PantauHarga </h1>
 
-Hello World!
+Deskripsi Aplikasi PantauHarga
 
 <details>
    <summary align="center">Meet Our Team</summary>
