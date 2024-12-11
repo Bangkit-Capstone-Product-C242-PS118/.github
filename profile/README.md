@@ -22,7 +22,6 @@ Teks
 |C284B4KX3728|Refila Dyah Ghizanda Wardoyo|Universitas Negeri Surabaya|[LinkedIn](https://www.linkedin.com/in/refilaghizanda/) |
 
 ### Mobile Development Team
-### Cloud Computing Team
 | Bangkit ID | Name | University | Social Media |
 |:----------:|:----:|:----------:|--------------|
 |A704B4KY0820|Bayu Firmansyah|Universitas Siber Asia|[LinkedIn](https://www.linkedin.com/in/bayufirmansyah/) |
