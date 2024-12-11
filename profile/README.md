@@ -32,13 +32,12 @@ Teks
 ## Repository
 
 ### Machine Learning 
-Teks
+[ML - Repository]()
 
 ### Cloud Computing
-Teks
+[CC - Repository]()
 
 ### Mobile Development
-Teks
 [MD - Repository](https://github.com/Bangkit-Capstone-Product-C242-PS118/Mobile-Dev)
 
 </details>
