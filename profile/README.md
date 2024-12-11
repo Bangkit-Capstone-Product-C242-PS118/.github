@@ -3,9 +3,8 @@
 Hello World!
 
 <details>
-   <summary align="center">About Us</summary>
-## Meet Our Team
-
+   <summary align="center">Meet Our Team</summary>
+   
 ### Machine Learning Team
 | Bangkit ID | Name | University | Social Media |
 |:----------:|:----:|:----------:|--------------|
@@ -25,6 +24,7 @@ Hello World!
 |A704B4KY0820|Bayu Firmansyah|Universitas Siber Asia|[LinkedIn](https://www.linkedin.com/in/bayufirmansyah/) |
 |A272B4KX0155|Afifah Khairunnisa Nugroho|Universitas Muslim Indonesia|[LinkedIn](https://www.linkedin.com/in/afifah-khairunnisa-nugroho/) |
 
+</details>
 
 ## Repository
 
@@ -46,7 +46,5 @@ Hello World!
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</details>
 
 <p align="right"> Bangkit C242-PS118 Team </p>
