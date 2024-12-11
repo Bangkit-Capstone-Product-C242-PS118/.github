@@ -30,7 +30,6 @@ Teks
 
 
 ## Repository
-Teks
 
 ### Machine Learning 
 Teks
