@@ -3,6 +3,7 @@
 Hello World!
 
 <details>
+   <summary align="center">About Us</summary>
 ## Meet Our Team
 
 ### Machine Learning Team
