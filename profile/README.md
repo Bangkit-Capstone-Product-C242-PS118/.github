@@ -32,7 +32,7 @@ Deskripsi Aplikasi PantauHarga
 [ML - Repository]()
 
 ### Cloud Computing
-[CC - Repository]()
+[CC - Repository](https://github.com/Bangkit-Capstone-Product-C242-PS118/Cloud-Computing)
 
 ### Mobile Development
 [MD - Repository](https://github.com/Bangkit-Capstone-Product-C242-PS118/Mobile-Dev)
