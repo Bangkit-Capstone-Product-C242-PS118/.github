@@ -1,6 +1,6 @@
 <h1 align="center"> PantauHarga </h1>
+<h2 align="center"> Smart Solutions for Inflation Stability </h2>
 
-Description PantauHarga
 
 <details>
    <summary align="center">Meet Our Team</summary>
